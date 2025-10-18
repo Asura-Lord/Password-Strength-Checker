@@ -5,7 +5,7 @@
 [![Streamlit](https://img.shields.io/badge/streamlit-ready-orange)](https://streamlit.io/)
 [![Live demo](https://img.shields.io/badge/Live-Demo-blue?logo=streamlit)](https://password-strength-checker-asura-lord.streamlit.app/)
 [![Repo size](https://img.shields.io/github/repo-size/Asura-Lord/Password-Strength-Checker)](https://github.com/Asura-Lord/Password-Strength-Checker)
-[![CI](https://github.com/Asura-Lord/Password-Strength-Checker/actions/workflows/ci.yml/badge.svg)](https://github.com/Asura-Lord/Password-Strength-Checker/actions)
+
 
 
   
@@ -188,4 +188,11 @@ See LICENSE file for full text.
 Report bugs or request features: https://github.com/Asura-Lord/Password-Strength-Checker/issues  
 Author: Asura-Lord — https://github.com/Asura-Lord
 
-Stay safe. Harden the gates. 🖤<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/f6643c79-c349-4b33-ae40-e204bfa80c64" />
+---
+
+## ⚠️ Warning 
+
+Weak passwords are dangerous. Don’t give hackers a free ticket.
+Your safety online is only as strong as your weakest password.
+
+💀 Use this tool responsibly. Secure your accounts, learn, and stay one step ahead of the hackers.<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/f6643c79-c349-4b33-ae40-e204bfa80c64" />
