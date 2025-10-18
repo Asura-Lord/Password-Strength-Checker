@@ -8,10 +8,14 @@
 [![CI](https://github.com/Asura-Lord/Password-Strength-Checker/actions/workflows/ci.yml/badge.svg)](https://github.com/Asura-Lord/Password-Strength-Checker/actions)
 
 
-    <img src="<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/97d6c039-00ad-48d7-99b2-a175552681e1" />
-
+  
 
 <p align="center"><em>Live demo: <a href="https://password-strength-checker-asura-lord.streamlit.app/">https://password-strength-checker-asura-lord.streamlit.app/</a></em></p>
+
+
+
+<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/2b0c2130-6228-4049-8d3b-204b933e35e2" />
+
 
 ## Table of Contents
 - Overview
