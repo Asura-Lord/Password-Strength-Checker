@@ -9,7 +9,8 @@
 
 <p align="center">
   <a href="https://password-strength-checker-asura-lord.streamlit.app/">
-    <img src="assets/screenshot.png" alt="App screenshot — password strength UI" width="900"/>
+    <img src="<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/97d6c039-00ad-48d7-99b2-a175552681e1" />
+" alt="App screenshot — password strength UI" width="900"/>
   </a>
 </p>
 
