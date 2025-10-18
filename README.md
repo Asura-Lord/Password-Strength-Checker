@@ -1,4 +1,8 @@
-# 🛡️ Password Strength Checker & Generator
+## 🛡️ Password Strength Checker & Generator
+
+“Weak passwords are an open invitation to hackers. Strengthen your shield”
+
+
 
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-brightgreen)](https://www.python.org/)
@@ -8,13 +12,24 @@
 
 
 
-  
+  ## 🔥 Overview
+
+This project is a Password Strength Checker & Generator designed to:
+
+Assess how strong your passwords are.
+
+Generate strong, secure passwords.
+
+Teach you what hackers look for when breaking weak passwords.
+
+It’s simple, effective, and built with real-world cybersecurity in mind.
+
 
 <p align="center"><em>Live demo: <a href="https://password-strength-checker-asura-lord.streamlit.app/">https://password-strength-checker-asura-lord.streamlit.app/</a></em></p>
 
 
 
-<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/2b0c2130-6228-4049-8d3b-204b933e35e2" />
+
 
 
 ## Table of Contents
@@ -100,6 +115,16 @@ Notes:
 - Using `python -m streamlit run` ensures Streamlit runs under the venv interpreter.
 - Add `.venv/` to `.gitignore` — do not commit your environment.
 
+---
+## 📂 Project Structure.
+```
+Password-Strength-Checker/
+├── app.py               # Main Streamlit app
+├── passguard.py         # Password strength logic
+├── requirements.txt     # Dependencies
+├── .venv/               # Virtual environment (local)
+└── README.md            # This file
+```
 ---
 
 ## Usage
