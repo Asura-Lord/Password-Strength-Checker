@@ -1,4 +1,4 @@
-## 🛡️ Password Strength Checker & Generator
+## PassGuard🛡️: Password Strength Checker & Generator
 
 “Weak passwords are an open invitation to hackers. Strengthen your shield”
 
