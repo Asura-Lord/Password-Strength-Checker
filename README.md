@@ -25,7 +25,7 @@ Teach you what hackers look for when breaking weak passwords.
 It’s simple, effective, and built with real-world cybersecurity in mind.
 
 
-<p align="center"><em>Live demo: <a href="https://password-strength-checker-asura-lord.streamlit.app/">https://password-strength-checker-asura-lord.streamlit.app/</a></em></p>
+
 
 
 
@@ -220,4 +220,9 @@ Author: Asura-Lord — https://github.com/Asura-Lord
 Weak passwords are dangerous. Don’t give hackers a free ticket.
 Your safety online is only as strong as your weakest password.
 
-💀 Use this tool responsibly. Secure your accounts, learn, and stay one step ahead of the hackers.<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/f6643c79-c349-4b33-ae40-e204bfa80c64" />
+💀 Use this tool responsibly. Secure your accounts, learn, and stay one step ahead of the hackers.
+---
+## Live Demo and Screenshot
+<p align="center"><em>Live demo: <a href="https://password-strength-checker-asura-lord.streamlit.app/">https://password-strength-checker-asura-lord.streamlit.app/</a></em></p>
+
+<img width="1723" height="865" alt="Screenshot 2025-10-18 112241" src="https://github.com/user-attachments/assets/f6643c79-c349-4b33-ae40-e204bfa80c64" />
